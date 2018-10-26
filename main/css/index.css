@@ -1,0 +1,10 @@
+  #chat-content
+ {
+  height: 180px;
+  overflow-y: scroll;
+ }
+
+ .ui header
+ {
+ text-align :center;
+ }
